@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas Vindas ao meu perfil 💙
 
-<!--
-**Sayuritakino/Sayuritakino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Sayuri Takino
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na Linguagem JavaScript
+- Ultilizo esse espaço para minha organização e compartolhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você estrar em contato comigo 📫
+
+beatriz.takino@gmail.com
+
+@iruysa_
+
+![](https://media.tenor.com/3fYDDvzMb90AAAAM/luffy-luffy-eat.gif)
