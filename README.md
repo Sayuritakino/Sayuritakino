@@ -6,7 +6,7 @@ Meu nome é Sayuri Takino
 - Estou me desenvolvendo na Linguagem JavaScript
 - Ultilizo esse espaço para minha organização e compartolhamento dos meus projetos desenvolvidos
 
-### Você estrar em contato comigo 📫
+### Você entrar em contato comigo 📫
 
 beatriz.takino@gmail.com
 
